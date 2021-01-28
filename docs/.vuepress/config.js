@@ -18,7 +18,7 @@ module.exports = {
       //       },
       //     ],
       //   },
-      { text: "External", link: "https://google.com" },
+      { text: "github", link: "https://github.com/BYJLE/web" },
     ],
   },
 };
