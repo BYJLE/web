@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## 余光中
 
-You can use the [editor on GitHub](https://github.com/BYJLE/web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+1、掉头一去是风吹黑发，回首再来已雪满白头。——《浪子回头》
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2、许多被鞭笞的灵魂在雨地里哀求大赦，魑魅呼喊着魍魉回答着魑魅。——《鬼雨》
 
-### Markdown
+这世界，来时她送我两件礼物，一件是肉身，一件是语文。——《余光中散文》
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+4、正是樱花当令的季节，樱花盛放如十里锦绣。——《黑灵魂》
 
-```markdown
-Syntax highlighted code block
+5、所以这就是岁月啊千面无常的岁月。——《蒲公英的岁月》
 
-# Header 1
-## Header 2
-### Header 3
+6、有客自远方来，眉间有远方的风雨。——《读脸的人》
 
-- Bulleted
-- List
+7、在诗的品位上，一个人要能兼顾白居易与李贺，韩愈与李白，才算是通达而平衡。——《左手的掌纹》
 
-1. Numbered
-2. List
+8.你要会流泪，会孤身一人坐在黑暗中听伤感的音乐。你要懂得欣赏悲剧，悲剧能丰富你的心灵。——《写给未来孩子的信》
 
-**Bold** and _Italic_ and `Code` text
+9.那就折一张阔些的荷叶，包一片月光回去，回去夹在唐诗里，扁扁的，象压过的相思。——《满月下》
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BYJLE/web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+10.月光还是少年的月光，九州一色还是李白的霜。——《独白》
